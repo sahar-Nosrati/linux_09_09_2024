@@ -1,1 +1,1 @@
-# linux_09_09_2024
+-Study git and linux
